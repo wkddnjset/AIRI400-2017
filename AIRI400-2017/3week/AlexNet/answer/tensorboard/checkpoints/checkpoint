@@ -1,0 +1,6 @@
+model_checkpoint_path: "places10-alexnet_ep-15_step-0"
+all_model_checkpoint_paths: "places10-alexnet_ep-11_step-0"
+all_model_checkpoint_paths: "places10-alexnet_ep-12_step-0"
+all_model_checkpoint_paths: "places10-alexnet_ep-13_step-0"
+all_model_checkpoint_paths: "places10-alexnet_ep-14_step-0"
+all_model_checkpoint_paths: "places10-alexnet_ep-15_step-0"
